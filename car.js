@@ -31,6 +31,4 @@ Car.prototype.drive = function(spe){
   this.speed= spe*50+' km/h';
   }
 };
-Car.prototype.isSaloon = function(){
-  
-}
+
